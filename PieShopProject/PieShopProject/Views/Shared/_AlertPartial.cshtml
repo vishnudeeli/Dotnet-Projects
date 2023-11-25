@@ -1,0 +1,22 @@
+﻿@if (TempData["Success"] != null)
+{
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr.success('@TempData["Success"]')
+            </script>
+    @* <h2>@TempData["Success"]</h2>*@
+}
+<body background="https://freerangestock.com/sample/61264/online-shopping--laptop-to-shopping-cart.jpg"></body>
+@if (TempData["Error"] != null)
+{
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+
+
+        <script type="text/javascript">
+            toastr.error('@TempData["Error"]')
+            </script>
+    @*  <h2>@TempData["Error"]</h2>*@
+}

@@ -1,0 +1,14 @@
+D:\Zensar C#\PieShopProject\PieShop.Models\bin\Debug\net6.0\PieShop.Models.deps.json
+D:\Zensar C#\PieShopProject\PieShop.Models\bin\Debug\net6.0\PieShop.Models.runtimeconfig.json
+D:\Zensar C#\PieShopProject\PieShop.Models\bin\Debug\net6.0\PieShop.Models.dll
+D:\Zensar C#\PieShopProject\PieShop.Models\bin\Debug\net6.0\PieShop.Models.pdb
+D:\Zensar C#\PieShopProject\PieShop.Models\obj\Debug\net6.0\PieShop.Models.csproj.AssemblyReference.cache
+D:\Zensar C#\PieShopProject\PieShop.Models\obj\Debug\net6.0\PieShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zensar C#\PieShopProject\PieShop.Models\obj\Debug\net6.0\PieShop.Models.AssemblyInfoInputs.cache
+D:\Zensar C#\PieShopProject\PieShop.Models\obj\Debug\net6.0\PieShop.Models.AssemblyInfo.cs
+D:\Zensar C#\PieShopProject\PieShop.Models\obj\Debug\net6.0\PieShop.Models.csproj.CoreCompileInputs.cache
+D:\Zensar C#\PieShopProject\PieShop.Models\obj\Debug\net6.0\PieShop.Models.dll
+D:\Zensar C#\PieShopProject\PieShop.Models\obj\Debug\net6.0\refint\PieShop.Models.dll
+D:\Zensar C#\PieShopProject\PieShop.Models\obj\Debug\net6.0\PieShop.Models.pdb
+D:\Zensar C#\PieShopProject\PieShop.Models\obj\Debug\net6.0\PieShop.Models.genruntimeconfig.cache
+D:\Zensar C#\PieShopProject\PieShop.Models\obj\Debug\net6.0\ref\PieShop.Models.dll

@@ -1,0 +1,17 @@
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\bin\Debug\net6.0\PieShop.DataAccess.deps.json
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\bin\Debug\net6.0\PieShop.DataAccess.runtimeconfig.json
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\bin\Debug\net6.0\PieShop.DataAccess.dll
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\bin\Debug\net6.0\PieShop.DataAccess.pdb
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\bin\Debug\net6.0\PieShop.Models.dll
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\bin\Debug\net6.0\PieShop.Models.pdb
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\PieShop.DataAccess.csproj.AssemblyReference.cache
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\PieShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\PieShop.DataAccess.AssemblyInfoInputs.cache
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\PieShop.DataAccess.AssemblyInfo.cs
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\PieShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\PieShop.DataAccess.csproj.CopyComplete
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\PieShop.DataAccess.dll
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\refint\PieShop.DataAccess.dll
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\PieShop.DataAccess.pdb
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\PieShop.DataAccess.genruntimeconfig.cache
+D:\Zensar C#\PieShopProject\PieShop.DataAccess\obj\Debug\net6.0\ref\PieShop.DataAccess.dll

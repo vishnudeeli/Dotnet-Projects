@@ -1,0 +1,64 @@
+﻿@model EmployeeDetails.Models.Employee
+@{
+    ViewData["Title"] = "Create";
+}
+
+<partial name="_AlertPartial" />
+
+<form id="myform" method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Add Employee</h2>
+            <hr />
+
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="MobileNo"></label>
+            <input asp-for="MobileNo" class="form-control" />
+            <span asp-validation-for="MobileNo" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Address"></label>
+            <input asp-for="Address" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+       
+        <div class="mb-3">
+            <button type="reset"  class="btn btn-primary" value="Reset form">Reset</button>
+            <button type="submit" class="btn btn-primary" style="width:100px">Save</button>
+            
+            <a asp-controller="Employee" asp-action="Index" class="btn btn-secondary" style="width:100px">Cancel</a>
+
+        </div>
+
+    </div>
+</form>
+
+
+
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial.cshtml" />
+    
+    
+
+}
+
+
+
+
+

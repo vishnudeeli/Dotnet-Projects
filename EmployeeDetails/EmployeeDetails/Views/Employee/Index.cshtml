@@ -1,0 +1,73 @@
+﻿@model IEnumerable<EmployeeDetails.Models.Employee>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<partial name="_AlertPartial" />
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Employee Details</h2>
+
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Employee" asp-action="Create" class="btn btn-primary"><i class="bi bi-plus"></i>Add Employee</a>
+        </div>
+
+
+    </div>
+
+</div>
+
+
+<table class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                Employee Id
+            </th>
+            <th>
+                 FirstName
+            </th>
+            <th>
+                 LastName
+            </th>
+            <th>
+                 MobileNo
+            </th>
+            <th>
+                Address
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>
+
+                    @c.Id
+                </td>
+                <td>@c.FirstName</td>
+                <td>@c.LastName</td>
+                <td>@c.MobileNo</td>
+                <td>@c.Address</td>
+
+                <td>
+                    <div>
+                        <a asp-controller="Employee" asp-action="Edit" class="btn btn-primary" asp-route-id="@c.Id"><i class="bi bi-pencil-square"></i></a>
+                    </div>
+                <td>
+                    <div>
+                        <a asp-controller="Employee" asp-action="Delete" class="btn btn-outline-danger" asp-route-id="@c.Id"><i class="bi bi-trash"></i></a>
+                    </div>
+                </td>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
